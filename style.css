@@ -1,0 +1,22 @@
+.task{
+    border: 3px solid greenyellow;
+    margin: 20px;
+ padding: 10px;
+}
+.task_3,.task_4{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+}
+.hidden{
+    background-color: black;
+}
+
+input[type="color"] {
+    appearance: none;
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    
+}
